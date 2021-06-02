@@ -16580,6 +16580,9 @@ body {
  color:#777;
  font-weight:400
 }
+.container .feature-wrapper hrex {
+  font-size: 15px;
+}
 .heading-1,
 h1 {
  font-size:40px
