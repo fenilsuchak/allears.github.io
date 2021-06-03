@@ -86,6 +86,7 @@ h6 {
 }
 p {
  margin-top:0;
+ margin-left: 15px;
  margin-bottom:1rem
 }
 abbr[data-original-title],
@@ -16916,7 +16917,7 @@ input[type=submit]:hover {
  border:1px solid #2e75d8
 }
 .ads-btn1 span {
- margin-left:10px
+ p:10px
 }
 .ads-btn1 img {
  height:20px;
