@@ -87,7 +87,8 @@ h6 {
 p {
  margin-top:0;
  margin-left: 15px;
- margin-bottom:1rem
+ margin-bottom:1rem;
+ margin-right: 15px;
 }
 abbr[data-original-title],
 abbr[title] {
@@ -17023,7 +17024,8 @@ input[type=submit]:hover {
 }
 @media (max-width:768px) {
  .section-title h2 {
-  margin-bottom:20px
+  margin-bottom:20px;
+  margin-top: 50px;
  }
 }
 .section-title p {
@@ -17150,11 +17152,15 @@ input[type=submit]:hover {
 }
 @media (min-width:768px) and (max-width:992px) {
  .header-area {
+  border-bottom-left-radius:50px;
+  border-bottom-right-radius:50px;
   margin:0
  }
 }
 @media (max-width:768px) {
- .header-area {
+ .header-area {  
+  border-bottom-left-radius:50px;
+  border-bottom-right-radius:50px;
   margin:0
  }
 }
@@ -17803,7 +17809,7 @@ input[type=submit]:hover {
 }
 @media (max-width:768px) {
  .feature-img1 .image-mockup {
-  max-width:100%
+  max-width:100%;
  }
 }
 .feature-img2 {
@@ -17829,7 +17835,7 @@ input[type=submit]:hover {
 }
 @media (max-width:768px) {
  .feature-img2 .image-mockup {
-  max-width:100%
+  max-width:100%;
  }
 }
 .watch-video-play {
