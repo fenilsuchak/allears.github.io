@@ -6,10 +6,10 @@
 
 # Site settings
 
-title: "All Ears | Empathy for Everyone"
+title: "All Ears"
 email: "allears@allears.space"
 description: >- # this means to ignore newlines until "baseurl:"
-  All Ears | Empathy for Everyone.
+  All Ears.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://allears.space/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

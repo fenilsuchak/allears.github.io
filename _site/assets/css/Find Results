@@ -1,0 +1,2863 @@
+Searching 241 files for "All Ears"
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_config.yml:
+    7  # Site settings
+    8  
+    9: title: "All Ears | Empathy for Everyone"
+   10  email: "allears@allears.space"
+   11  description: >- # this means to ignore newlines until "baseurl:"
+   12:   All Ears | Empathy for Everyone.
+   13  baseurl: "" # the subpath of your site, e.g. /blog
+   14  url: "https://allears.space/" # the base hostname & protocol for your site, e.g. http://example.com
+   15  twitter_username: jekyllrb
+   16  github_username:  jekyll
+   17: logo: "/assets/images/all ears.png"
+   18  mailchimp-list: //redgadgets.us10.list-manage.com/subscribe/post?u=210acce5db69d3d4a04b0e25d&amp;id=08c6708f40"
+   19  
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/team.html:
+   12              <cite>Carl<span class="cite-last-name"> Rogers</span></cite>
+   13            </blockquote>
+   14:           <p>At All Ears, we believe Empathy is one of fundamental traits that makes us human. We envision a society where mpathy is infused into everyday life, one that fosters it. Sometimes, letting someone know the depth of your empathy by being there, by being a writing board for their emotions, is all that’s needed for the moment. We believe that pursuit of acts of empathy are fundamental for the achievement of sustainable development goals, and for building peaceful and supportive societies.</p>
+   15           {% for author in site.authors %}
+   16  		  {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/vision.html:
+    6     <div class="container">
+    7        <div class="entry-content">
+    8:             <h4><strong class="first-word">E</strong>mpathy is not simply a combination of letters but one of the fundamental traits that makes us human. At All Ears, we envision a society where empathy is infused into everyday life, one that fosters it. Sometimes, letting someone know the depth of your empathy by being there, by being a sympathetic sounding board for their emotions, is all that’s needed for the moment. They are not helpless. Just a bit faltered and discouraged, but not helpless. We believe that pursuit of acts of kindness and empathy are fundamental for the achievement of Sustainable Development Goals, and for building peaceful and supportive societies.</h4>
+    9  <!--             <p>Praesent tortor, tincidunt ullamcorper. Non non posuere ullamcorper mauris lacus erat, lectus dolor       blandit orci erat nulla ante, porta tellus at sed integer est, ipsum duis sit molestie nec aliquam tellus, convallis maecenas. Tortor dui orci pellentesque, pellentesque orci </p>
+   10              <blockquote>Met posuere luctus sed mattis vestibulum, nibh porta. Ligula mauris mauris nec, sit in esse tincidunt elit a erat, dolor congue fusce vel tellus vitae, purus arcu sociis pellentesque vestibulum elementum id. Phasellus adipiscing morbi aliquam, quia mauris posuere sit pede, eros id, lectus</blockquote> -->
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_includes/apps_area.html:
+   29                             </div>
+   30                             <ul class="screenshot-list m-b-40 list-inline">
+   31:                               <li>At All Ears, Empaths undergo advanced training on our platform in the best listening practices. </li>
+   32                                <li>Our proprietary algorithm ensures that you are matched to empaths who understand you the way you are.</li>
+   33                                <li>Reconnect to your favorite Empaths and directly reach out to them anytime you want to.</li>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_includes/featured2.html:
+   22                  <div class="row"> 
+   23                      <p>Anyone can become an Empath! <br>
+   24:                         Join our Empathic Listening course to developed by top researchers and psychologists. All Ears Listening Program teaches you Empathic Listening techniques, which will help you make deeper connections, and open diverse ways in which you percieve and experience emotions.
+   25                      </p>
+   26                  </div>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/404.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="404 Page Not Found" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/404" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="404 Page Not Found">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  131              <div class="row">
+  132                  <div class="col-md-6 col-lg-4">
+  133:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  134                      <div class="footer-widget">
+  135                          <ul class="social-link list-inline">
+  ...
+  196          </div>
+  197          <div class="footer-copyright-wrapper text-center">
+  198:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  199          </div>
+  200          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/alternative-for-free.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Alternative Free Way To Be A Prodessional Designer" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/alternative-for-free" property="og:url">	
+   18      <meta content="/assets/images/blog-img6.jpg" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Alternative Free Way To Be A Prodessional Designer">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.2:4000/assets/images/blog-img6.jpg">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  341              <div class="row">
+  342                  <div class="col-md-6 col-lg-4">
+  343:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  344                      <div class="footer-widget">
+  345                          <ul class="social-link list-inline">
+  ...
+  406          </div>
+  407          <div class="footer-copyright-wrapper text-center">
+  408:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  409          </div>
+  410          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/awesome-things-you-can-learn-from-studying-design.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="5 awesome things you can learn from studying design" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/awesome-things-you-can-learn-from-studying-design" property="og:url">	
+   18      <meta content="/assets/images/blog-img5.jpg" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="5 awesome things you can learn from studying design">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.2:4000/assets/images/blog-img5.jpg">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  343              <div class="row">
+  344                  <div class="col-md-6 col-lg-4">
+  345:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  346                      <div class="footer-widget">
+  347                          <ul class="social-link list-inline">
+  ...
+  408          </div>
+  409          <div class="footer-copyright-wrapper text-center">
+  410:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  411          </div>
+  412          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/brilliant-ways-to-advertise-design.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="15 brilliant ways to advertise design" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/brilliant-ways-to-advertise-design" property="og:url">	
+   18      <meta content="/assets/images/blog-img12.jpg" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="15 brilliant ways to advertise design">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.2:4000/assets/images/blog-img12.jpg">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  349              <div class="row">
+  350                  <div class="col-md-6 col-lg-4">
+  351:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  352                      <div class="footer-widget">
+  353                          <ul class="social-link list-inline">
+  ...
+  414          </div>
+  415          <div class="footer-copyright-wrapper text-center">
+  416:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  417          </div>
+  418          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/contact.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Contact Page" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/contact" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Contact Page">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  207              <div class="row">
+  208                  <div class="col-md-6 col-lg-4">
+  209:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  210                      <div class="footer-widget">
+  211                          <ul class="social-link list-inline">
+  ...
+  272          </div>
+  273          <div class="footer-copyright-wrapper text-center">
+  274:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  275          </div>
+  276          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/html5-static-site.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="html5 Static Site Generator For All amet facilisis" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/html5-static-site" property="og:url">	
+   18      <meta content="/assets/images/blog-img3.jpg" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="html5 Static Site Generator For All amet facilisis">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.2:4000/assets/images/blog-img3.jpg">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  355              <div class="row">
+  356                  <div class="col-md-6 col-lg-4">
+  357:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  358                      <div class="footer-widget">
+  359                          <ul class="social-link list-inline">
+  ...
+  420          </div>
+  421          <div class="footer-copyright-wrapper text-center">
+  422:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  423          </div>
+  424          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14:     <meta content="All Ears | Empathy for Everyone" property="og:title">
+   15      <meta content="website" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   23      <meta name="twitter:site"    content="@jekyllrb">
+   24      <meta name="twitter:creator" content="@">
+   25:     <meta name="twitter:title"   content="All Ears | Empathy for Everyone">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   29:     <title> All Ears | Empathy for Everyone </title>
+   30      <!--  Add Favicon -->
+   31      <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  182                  <div class="row"> 
+  183                      <p>Anyone can become an Empath! <br>
+  184:                         Join our Empathic Listening course to developed by top researchers and psychologists. All Ears Listening Program teaches you Empathic Listening techniques, which will help you make deeper connections, and open diverse ways in which you percieve and experience emotions.
+  185                      </p>
+  186                  </div>
+  ...
+  226                             </div>
+  227                             <ul class="screenshot-list m-b-40 list-inline">
+  228:                               <li>At All Ears, Empaths undergo advanced training on our platform in the best listening practices. </li>
+  229                                <li>Our proprietary algorithm ensures that you are matched to empaths who understand you the way you are.</li>
+  230                                <li>Reconnect to your favorite Empaths and directly reach out to them anytime you want to.</li>
+  ...
+  250              <div class="row">
+  251                  <div class="col-md-6 col-lg-4">
+  252:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  253                      <div class="footer-widget">
+  254                          <ul class="social-link list-inline">
+  ...
+  315          </div>
+  316          <div class="footer-copyright-wrapper text-center">
+  317:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  318          </div>
+  319          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/index.xml:
+    1: <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://192.168.1.2:4000/index.xml" rel="self" type="application/atom+xml" /><link href="http://192.168.1.2:4000/" rel="alternate" type="text/html" /><updated>2021-06-05T18:16:22+05:30</updated><id>http://192.168.1.2:4000/index.xml</id><title type="html">All Ears | Empathy for Everyone</title><subtitle>All Ears | Empathy for Everyone.</subtitle><entry><title type="html">5 things nobody told you about design</title><link href="http://192.168.1.2:4000/things-nobody-told-you-about-design" rel="alternate" type="text/html" title="5 things nobody told you about design" /><published>2019-04-08T14:42:09+05:30</published><updated>2019-04-08T14:42:09+05:30</updated><id>http://192.168.1.2:4000/things-nobody-told-you-about-design</id><content type="html" xml:base="http://192.168.1.2:4000/things-nobody-told-you-about-design">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+    2  
+    3  &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/questions-to-ask-at-design.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="5 questions to ask at design" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/questions-to-ask-at-design" property="og:url">	
+   18      <meta content="/assets/images/blog-img11.jpg" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="5 questions to ask at design">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.2:4000/assets/images/blog-img11.jpg">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  349              <div class="row">
+  350                  <div class="col-md-6 col-lg-4">
+  351:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  352                      <div class="footer-widget">
+  353                          <ul class="social-link list-inline">
+  ...
+  414          </div>
+  415          <div class="footer-copyright-wrapper text-center">
+  416:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  417          </div>
+  418          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/seo-friendly-post.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Seo Friendly Post Title venenatis a condimentum vitae" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/seo-friendly-post" property="og:url">	
+   18      <meta content="/assets/images/blog-img7.jpg" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Seo Friendly Post Title venenatis a condimentum vitae">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.2:4000/assets/images/blog-img7.jpg">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  345              <div class="row">
+  346                  <div class="col-md-6 col-lg-4">
+  347:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  348                      <div class="footer-widget">
+  349                          <ul class="social-link list-inline">
+  ...
+  410          </div>
+  411          <div class="footer-copyright-wrapper text-center">
+  412:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  413          </div>
+  414          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/seven-various-ways-to-do-design.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Seven various ways to do design." property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/seven-various-ways-to-do-design" property="og:url">	
+   18      <meta content="/assets/images/blog-img8.jpg" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Seven various ways to do design.">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.2:4000/assets/images/blog-img8.jpg">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  344              <div class="row">
+  345                  <div class="col-md-6 col-lg-4">
+  346:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  347                      <div class="footer-widget">
+  348                          <ul class="social-link list-inline">
+  ...
+  409          </div>
+  410          <div class="footer-copyright-wrapper text-center">
+  411:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  412          </div>
+  413          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/team.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Team and Vision" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/team" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Team and Vision">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  121              <cite>Carl<span class="cite-last-name"> Rogers</span></cite>
+  122            </blockquote>
+  123:           <p>At All Ears, we believe Empathy is one of fundamental traits that makes us human. We envision a society where mpathy is infused into everyday life, one that fosters it. Sometimes, letting someone know the depth of your empathy by being there, by being a writing board for their emotions, is all that’s needed for the moment. We believe that pursuit of acts of empathy are fundamental for the achievement of sustainable development goals, and for building peaceful and supportive societies.</p>
+  124           
+  125  		  
+  ...
+  219              <div class="row">
+  220                  <div class="col-md-6 col-lg-4">
+  221:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  222                      <div class="footer-widget">
+  223                          <ul class="social-link list-inline">
+  ...
+  284          </div>
+  285          <div class="footer-copyright-wrapper text-center">
+  286:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  287          </div>
+  288          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/the-5-secrets-that-you-shouldn-t-know-about-design.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="The 5 secrets that you should not know" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/the-5-secrets-that-you-shouldn-t-know-about-design" property="og:url">	
+   18      <meta content="/assets/images/blog-img13.jpg" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="The 5 secrets that you should not know">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.2:4000/assets/images/blog-img13.jpg">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  349              <div class="row">
+  350                  <div class="col-md-6 col-lg-4">
+  351:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  352                      <div class="footer-widget">
+  353                          <ul class="social-link list-inline">
+  ...
+  414          </div>
+  415          <div class="footer-copyright-wrapper text-center">
+  416:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  417          </div>
+  418          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/the-biggest-contribution-of-design-to-humanity.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="The biggest contribution of design to humanity" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/the-biggest-contribution-of-design-to-humanity" property="og:url">	
+   18      <meta content="/assets/images/blog-img14.jpg" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="The biggest contribution of design to humanity">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.2:4000/assets/images/blog-img14.jpg">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  349              <div class="row">
+  350                  <div class="col-md-6 col-lg-4">
+  351:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  352                      <div class="footer-widget">
+  353                          <ul class="social-link list-inline">
+  ...
+  414          </div>
+  415          <div class="footer-copyright-wrapper text-center">
+  416:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  417          </div>
+  418          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/the-cheapest-way-to-earn-your-free-ticket-to-design.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="﻿The cheapest way to earn your free ticket to design" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/the-cheapest-way-to-earn-your-free-ticket-to-design" property="og:url">	
+   18      <meta content="/assets/images/blog-img4.jpg" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="﻿The cheapest way to earn your free ticket to design">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.2:4000/assets/images/blog-img4.jpg">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  343              <div class="row">
+  344                  <div class="col-md-6 col-lg-4">
+  345:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  346                      <div class="footer-widget">
+  347                          <ul class="social-link list-inline">
+  ...
+  408          </div>
+  409          <div class="footer-copyright-wrapper text-center">
+  410:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  411          </div>
+  412          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/the-modern-rules-of-design.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="The modern rules of design." property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/the-modern-rules-of-design" property="og:url">	
+   18      <meta content="/assets/images/blog-img5.png" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="The modern rules of design.">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.2:4000/assets/images/blog-img5.png">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  348              <div class="row">
+  349                  <div class="col-md-6 col-lg-4">
+  350:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  351                      <div class="footer-widget">
+  352                          <ul class="social-link list-inline">
+  ...
+  413          </div>
+  414          <div class="footer-copyright-wrapper text-center">
+  415:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  416          </div>
+  417          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/the-worst-advices-we-ve-heard-for-design.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="The worst advices we've heard for design" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/the-worst-advices-we-ve-heard-for-design" property="og:url">	
+   18      <meta content="/assets/images/blog-img10.jpg" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="The worst advices we've heard for design">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.2:4000/assets/images/blog-img10.jpg">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  345              <div class="row">
+  346                  <div class="col-md-6 col-lg-4">
+  347:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  348                      <div class="footer-widget">
+  349                          <ul class="social-link list-inline">
+  ...
+  410          </div>
+  411          <div class="footer-copyright-wrapper text-center">
+  412:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  413          </div>
+  414          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/things-nobody-told-you-about-design.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="5 things nobody told you about design" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/things-nobody-told-you-about-design" property="og:url">	
+   18      <meta content="/assets/images/blog-img9.jpg" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="5 things nobody told you about design">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.2:4000/assets/images/blog-img9.jpg">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  349              <div class="row">
+  350                  <div class="col-md-6 col-lg-4">
+  351:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  352                      <div class="footer-widget">
+  353                          <ul class="social-link list-inline">
+  ...
+  414          </div>
+  415          <div class="footer-copyright-wrapper text-center">
+  416:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  417          </div>
+  418          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/vision.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Vision" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/vision" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Vision">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  116     <div class="container">
+  117        <div class="entry-content">
+  118:             <h4><strong class="first-word">E</strong>mpathy is not simply a combination of letters but one of the fundamental traits that makes us human. At All Ears, we envision a society where empathy is infused into everyday life, one that fosters it. Sometimes, letting someone know the depth of your empathy by being there, by being a sympathetic sounding board for their emotions, is all that’s needed for the moment. They are not helpless. Just a bit faltered and discouraged, but not helpless. We believe that pursuit of acts of kindness and empathy are fundamental for the achievement of Sustainable Development Goals, and for building peaceful and supportive societies.</h4>
+  119  <!--             <p>Praesent tortor, tincidunt ullamcorper. Non non posuere ullamcorper mauris lacus erat, lectus dolor       blandit orci erat nulla ante, porta tellus at sed integer est, ipsum duis sit molestie nec aliquam tellus, convallis maecenas. Tortor dui orci pellentesque, pellentesque orci </p>
+  120              <blockquote>Met posuere luctus sed mattis vestibulum, nibh porta. Ligula mauris mauris nec, sit in esse tincidunt elit a erat, dolor congue fusce vel tellus vitae, purus arcu sociis pellentesque vestibulum elementum id. Phasellus adipiscing morbi aliquam, quia mauris posuere sit pede, eros id, lectus</blockquote> -->
+  ...
+  145              <div class="row">
+  146                  <div class="col-md-6 col-lg-4">
+  147:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  148                      <div class="footer-widget">
+  149                          <ul class="social-link list-inline">
+  ...
+  210          </div>
+  211          <div class="footer-copyright-wrapper text-center">
+  212:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  213          </div>
+  214          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/welcome-to-jekyll.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Welcome to Jekyll" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/welcome-to-jekyll" property="og:url">	
+   18      <meta content="/assets/images/blog-img1.jpg" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Welcome to Jekyll">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.2:4000/assets/images/blog-img1.jpg">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  342              <div class="row">
+  343                  <div class="col-md-6 col-lg-4">
+  344:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  345                      <div class="footer-widget">
+  346                          <ul class="social-link list-inline">
+  ...
+  407          </div>
+  408          <div class="footer-copyright-wrapper text-center">
+  409:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  410          </div>
+  411          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/wordpress-hosting.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="WordPress hostin manage your growth Nullam non nisi est" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/wordpress-hosting" property="og:url">	
+   18      <meta content="/assets/images/blog-img2.jpg" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="WordPress hostin manage your growth Nullam non nisi est">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.2:4000/assets/images/blog-img2.jpg">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  356              <div class="row">
+  357                  <div class="col-md-6 col-lg-4">
+  358:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  359                      <div class="footer-widget">
+  360                          <ul class="social-link list-inline">
+  ...
+  421          </div>
+  422          <div class="footer-copyright-wrapper text-center">
+  423:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  424          </div>
+  425          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/2018/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14:     <meta content="All Ears | Empathy for Everyone" property="og:title">
+   15      <meta content="website" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/2018/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   23      <meta name="twitter:site"    content="@jekyllrb">
+   24      <meta name="twitter:creator" content="@">
+   25:     <meta name="twitter:title"   content="All Ears | Empathy for Everyone">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   29:     <title> All Ears | Empathy for Everyone </title>
+   30      <!--  Add Favicon -->
+   31      <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  140              <div class="row">
+  141                  <div class="col-md-6 col-lg-4">
+  142:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  143                      <div class="footer-widget">
+  144                          <ul class="social-link list-inline">
+  ...
+  205          </div>
+  206          <div class="footer-copyright-wrapper text-center">
+  207:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  208          </div>
+  209          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/2018/11/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14:     <meta content="All Ears | Empathy for Everyone" property="og:title">
+   15      <meta content="website" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/2018/11/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   23      <meta name="twitter:site"    content="@jekyllrb">
+   24      <meta name="twitter:creator" content="@">
+   25:     <meta name="twitter:title"   content="All Ears | Empathy for Everyone">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   29:     <title> All Ears | Empathy for Everyone </title>
+   30      <!--  Add Favicon -->
+   31      <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  140              <div class="row">
+  141                  <div class="col-md-6 col-lg-4">
+  142:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  143                      <div class="footer-widget">
+  144                          <ul class="social-link list-inline">
+  ...
+  205          </div>
+  206          <div class="footer-copyright-wrapper text-center">
+  207:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  208          </div>
+  209          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/2018/11/08/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14:     <meta content="All Ears | Empathy for Everyone" property="og:title">
+   15      <meta content="website" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/2018/11/08/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   23      <meta name="twitter:site"    content="@jekyllrb">
+   24      <meta name="twitter:creator" content="@">
+   25:     <meta name="twitter:title"   content="All Ears | Empathy for Everyone">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   29:     <title> All Ears | Empathy for Everyone </title>
+   30      <!--  Add Favicon -->
+   31      <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  140              <div class="row">
+  141                  <div class="col-md-6 col-lg-4">
+  142:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  143                      <div class="footer-widget">
+  144                          <ul class="social-link list-inline">
+  ...
+  205          </div>
+  206          <div class="footer-copyright-wrapper text-center">
+  207:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  208          </div>
+  209          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/2019/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14:     <meta content="All Ears | Empathy for Everyone" property="og:title">
+   15      <meta content="website" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/2019/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   23      <meta name="twitter:site"    content="@jekyllrb">
+   24      <meta name="twitter:creator" content="@">
+   25:     <meta name="twitter:title"   content="All Ears | Empathy for Everyone">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   29:     <title> All Ears | Empathy for Everyone </title>
+   30      <!--  Add Favicon -->
+   31      <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  140              <div class="row">
+  141                  <div class="col-md-6 col-lg-4">
+  142:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  143                      <div class="footer-widget">
+  144                          <ul class="social-link list-inline">
+  ...
+  205          </div>
+  206          <div class="footer-copyright-wrapper text-center">
+  207:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  208          </div>
+  209          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/2019/01/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14:     <meta content="All Ears | Empathy for Everyone" property="og:title">
+   15      <meta content="website" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/2019/01/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   23      <meta name="twitter:site"    content="@jekyllrb">
+   24      <meta name="twitter:creator" content="@">
+   25:     <meta name="twitter:title"   content="All Ears | Empathy for Everyone">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   29:     <title> All Ears | Empathy for Everyone </title>
+   30      <!--  Add Favicon -->
+   31      <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  140              <div class="row">
+  141                  <div class="col-md-6 col-lg-4">
+  142:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  143                      <div class="footer-widget">
+  144                          <ul class="social-link list-inline">
+  ...
+  205          </div>
+  206          <div class="footer-copyright-wrapper text-center">
+  207:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  208          </div>
+  209          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/2019/01/09/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14:     <meta content="All Ears | Empathy for Everyone" property="og:title">
+   15      <meta content="website" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/2019/01/09/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   23      <meta name="twitter:site"    content="@jekyllrb">
+   24      <meta name="twitter:creator" content="@">
+   25:     <meta name="twitter:title"   content="All Ears | Empathy for Everyone">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   29:     <title> All Ears | Empathy for Everyone </title>
+   30      <!--  Add Favicon -->
+   31      <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  140              <div class="row">
+  141                  <div class="col-md-6 col-lg-4">
+  142:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  143                      <div class="footer-widget">
+  144                          <ul class="social-link list-inline">
+  ...
+  205          </div>
+  206          <div class="footer-copyright-wrapper text-center">
+  207:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  208          </div>
+  209          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/2019/02/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14:     <meta content="All Ears | Empathy for Everyone" property="og:title">
+   15      <meta content="website" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/2019/02/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   23      <meta name="twitter:site"    content="@jekyllrb">
+   24      <meta name="twitter:creator" content="@">
+   25:     <meta name="twitter:title"   content="All Ears | Empathy for Everyone">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   29:     <title> All Ears | Empathy for Everyone </title>
+   30      <!--  Add Favicon -->
+   31      <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  140              <div class="row">
+  141                  <div class="col-md-6 col-lg-4">
+  142:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  143                      <div class="footer-widget">
+  144                          <ul class="social-link list-inline">
+  ...
+  205          </div>
+  206          <div class="footer-copyright-wrapper text-center">
+  207:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  208          </div>
+  209          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/2019/02/01/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14:     <meta content="All Ears | Empathy for Everyone" property="og:title">
+   15      <meta content="website" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/2019/02/01/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   23      <meta name="twitter:site"    content="@jekyllrb">
+   24      <meta name="twitter:creator" content="@">
+   25:     <meta name="twitter:title"   content="All Ears | Empathy for Everyone">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   29:     <title> All Ears | Empathy for Everyone </title>
+   30      <!--  Add Favicon -->
+   31      <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  140              <div class="row">
+  141                  <div class="col-md-6 col-lg-4">
+  142:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  143                      <div class="footer-widget">
+  144                          <ul class="social-link list-inline">
+  ...
+  205          </div>
+  206          <div class="footer-copyright-wrapper text-center">
+  207:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  208          </div>
+  209          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/2019/02/09/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14:     <meta content="All Ears | Empathy for Everyone" property="og:title">
+   15      <meta content="website" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/2019/02/09/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   23      <meta name="twitter:site"    content="@jekyllrb">
+   24      <meta name="twitter:creator" content="@">
+   25:     <meta name="twitter:title"   content="All Ears | Empathy for Everyone">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   29:     <title> All Ears | Empathy for Everyone </title>
+   30      <!--  Add Favicon -->
+   31      <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  140              <div class="row">
+  141                  <div class="col-md-6 col-lg-4">
+  142:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  143                      <div class="footer-widget">
+  144                          <ul class="social-link list-inline">
+  ...
+  205          </div>
+  206          <div class="footer-copyright-wrapper text-center">
+  207:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  208          </div>
+  209          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/2019/03/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14:     <meta content="All Ears | Empathy for Everyone" property="og:title">
+   15      <meta content="website" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/2019/03/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   23      <meta name="twitter:site"    content="@jekyllrb">
+   24      <meta name="twitter:creator" content="@">
+   25:     <meta name="twitter:title"   content="All Ears | Empathy for Everyone">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   29:     <title> All Ears | Empathy for Everyone </title>
+   30      <!--  Add Favicon -->
+   31      <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  140              <div class="row">
+  141                  <div class="col-md-6 col-lg-4">
+  142:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  143                      <div class="footer-widget">
+  144                          <ul class="social-link list-inline">
+  ...
+  205          </div>
+  206          <div class="footer-copyright-wrapper text-center">
+  207:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  208          </div>
+  209          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/2019/03/09/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14:     <meta content="All Ears | Empathy for Everyone" property="og:title">
+   15      <meta content="website" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/2019/03/09/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   23      <meta name="twitter:site"    content="@jekyllrb">
+   24      <meta name="twitter:creator" content="@">
+   25:     <meta name="twitter:title"   content="All Ears | Empathy for Everyone">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   29:     <title> All Ears | Empathy for Everyone </title>
+   30      <!--  Add Favicon -->
+   31      <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  140              <div class="row">
+  141                  <div class="col-md-6 col-lg-4">
+  142:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  143                      <div class="footer-widget">
+  144                          <ul class="social-link list-inline">
+  ...
+  205          </div>
+  206          <div class="footer-copyright-wrapper text-center">
+  207:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  208          </div>
+  209          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/2019/03/10/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14:     <meta content="All Ears | Empathy for Everyone" property="og:title">
+   15      <meta content="website" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/2019/03/10/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   23      <meta name="twitter:site"    content="@jekyllrb">
+   24      <meta name="twitter:creator" content="@">
+   25:     <meta name="twitter:title"   content="All Ears | Empathy for Everyone">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   29:     <title> All Ears | Empathy for Everyone </title>
+   30      <!--  Add Favicon -->
+   31      <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  140              <div class="row">
+  141                  <div class="col-md-6 col-lg-4">
+  142:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  143                      <div class="footer-widget">
+  144                          <ul class="social-link list-inline">
+  ...
+  205          </div>
+  206          <div class="footer-copyright-wrapper text-center">
+  207:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  208          </div>
+  209          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/2019/04/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14:     <meta content="All Ears | Empathy for Everyone" property="og:title">
+   15      <meta content="website" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/2019/04/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   23      <meta name="twitter:site"    content="@jekyllrb">
+   24      <meta name="twitter:creator" content="@">
+   25:     <meta name="twitter:title"   content="All Ears | Empathy for Everyone">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   29:     <title> All Ears | Empathy for Everyone </title>
+   30      <!--  Add Favicon -->
+   31      <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  140              <div class="row">
+  141                  <div class="col-md-6 col-lg-4">
+  142:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  143                      <div class="footer-widget">
+  144                          <ul class="social-link list-inline">
+  ...
+  205          </div>
+  206          <div class="footer-copyright-wrapper text-center">
+  207:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  208          </div>
+  209          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/2019/04/08/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14:     <meta content="All Ears | Empathy for Everyone" property="og:title">
+   15      <meta content="website" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/2019/04/08/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   23      <meta name="twitter:site"    content="@jekyllrb">
+   24      <meta name="twitter:creator" content="@">
+   25:     <meta name="twitter:title"   content="All Ears | Empathy for Everyone">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   29:     <title> All Ears | Empathy for Everyone </title>
+   30      <!--  Add Favicon -->
+   31      <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon"/>
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  140              <div class="row">
+  141                  <div class="col-md-6 col-lg-4">
+  142:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  143                      <div class="footer-widget">
+  144                          <ul class="social-link list-inline">
+  ...
+  205          </div>
+  206          <div class="footer-copyright-wrapper text-center">
+  207:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  208          </div>
+  209          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/about/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="About" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/about/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="About">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  130              <div class="row">
+  131                  <div class="col-md-6 col-lg-4">
+  132:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  133                      <div class="footer-widget">
+  134                          <ul class="social-link list-inline">
+  ...
+  195          </div>
+  196          <div class="footer-copyright-wrapper text-center">
+  197:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  198          </div>
+  199          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/authors/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content=" authors" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/authors/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content=" authors">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  268              <div class="row">
+  269                  <div class="col-md-6 col-lg-4">
+  270:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  271                      <div class="footer-widget">
+  272                          <ul class="social-link list-inline">
+  ...
+  333          </div>
+  334          <div class="footer-copyright-wrapper text-center">
+  335:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  336          </div>
+  337          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/authors/fenil/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Fenil" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/authors/fenil/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Fenil">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  564              <div class="row">
+  565                  <div class="col-md-6 col-lg-4">
+  566:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  567                      <div class="footer-widget">
+  568                          <ul class="social-link list-inline">
+  ...
+  629          </div>
+  630          <div class="footer-copyright-wrapper text-center">
+  631:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  632          </div>
+  633          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/authors/kaustav/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Kaustav" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/authors/kaustav/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Kaustav">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  564              <div class="row">
+  565                  <div class="col-md-6 col-lg-4">
+  566:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  567                      <div class="footer-widget">
+  568                          <ul class="social-link list-inline">
+  ...
+  629          </div>
+  630          <div class="footer-copyright-wrapper text-center">
+  631:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  632          </div>
+  633          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/authors/ksaketh/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Ksaketh" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/authors/ksaketh/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Ksaketh">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  146              <div class="row">
+  147                  <div class="col-md-6 col-lg-4">
+  148:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  149                      <div class="footer-widget">
+  150                          <ul class="social-link list-inline">
+  ...
+  211          </div>
+  212          <div class="footer-copyright-wrapper text-center">
+  213:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  214          </div>
+  215          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/authors/nilesh/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Nilesh" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/authors/nilesh/" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Nilesh">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  144              <div class="row">
+  145                  <div class="col-md-6 col-lg-4">
+  146:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  147                      <div class="footer-widget">
+  148                          <ul class="social-link list-inline">
+  ...
+  209          </div>
+  210          <div class="footer-copyright-wrapper text-center">
+  211:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  212          </div>
+  213          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/category/education/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Category -  education" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/category/education/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Category -  education">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  163              <div class="row">
+  164                  <div class="col-md-6 col-lg-4">
+  165:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  166                      <div class="footer-widget">
+  167                          <ul class="social-link list-inline">
+  ...
+  228          </div>
+  229          <div class="footer-copyright-wrapper text-center">
+  230:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  231          </div>
+  232          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/category/health/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Category -  health" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/category/health/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Category -  health">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  162              <div class="row">
+  163                  <div class="col-md-6 col-lg-4">
+  164:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  165                      <div class="footer-widget">
+  166                          <ul class="social-link list-inline">
+  ...
+  227          </div>
+  228          <div class="footer-copyright-wrapper text-center">
+  229:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  230          </div>
+  231          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/category/jekyll/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Category -  jekyll" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/category/jekyll/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Category -  jekyll">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  281              <div class="row">
+  282                  <div class="col-md-6 col-lg-4">
+  283:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  284                      <div class="footer-widget">
+  285                          <ul class="social-link list-inline">
+  ...
+  346          </div>
+  347          <div class="footer-copyright-wrapper text-center">
+  348:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  349          </div>
+  350          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/category/jekyll/pages/2/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Category -  jekyll - page 2" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/category/jekyll/pages/2/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Category -  jekyll - page 2">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  237              <div class="row">
+  238                  <div class="col-md-6 col-lg-4">
+  239:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  240                      <div class="footer-widget">
+  241                          <ul class="social-link list-inline">
+  ...
+  302          </div>
+  303          <div class="footer-copyright-wrapper text-center">
+  304:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  305          </div>
+  306          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/category/tech/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Category -  tech" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/category/tech/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Category -  tech">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  231              <div class="row">
+  232                  <div class="col-md-6 col-lg-4">
+  233:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  234                      <div class="footer-widget">
+  235                          <ul class="social-link list-inline">
+  ...
+  296          </div>
+  297          <div class="footer-copyright-wrapper text-center">
+  298:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  299          </div>
+  300          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/category/tips/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Category -  tips" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/category/tips/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Category -  tips">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  163              <div class="row">
+  164                  <div class="col-md-6 col-lg-4">
+  165:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  166                      <div class="footer-widget">
+  167                          <ul class="social-link list-inline">
+  ...
+  228          </div>
+  229          <div class="footer-copyright-wrapper text-center">
+  230:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  231          </div>
+  232          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/category/wordpress/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Category -  wordpress" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/category/wordpress/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Category -  wordpress">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  163              <div class="row">
+  164                  <div class="col-md-6 col-lg-4">
+  165:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  166                      <div class="footer-widget">
+  167                          <ul class="social-link list-inline">
+  ...
+  228          </div>
+  229          <div class="footer-copyright-wrapper text-center">
+  230:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  231          </div>
+  232          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/pages/blog/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Our Blog" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/pages/blog/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Our Blog">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  272              <div class="row">
+  273                  <div class="col-md-6 col-lg-4">
+  274:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  275                      <div class="footer-widget">
+  276                          <ul class="social-link list-inline">
+  ...
+  337          </div>
+  338          <div class="footer-copyright-wrapper text-center">
+  339:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  340          </div>
+  341          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/pages/blog/pages/2/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Our Blog - page 2" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/pages/blog/pages/2/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Our Blog - page 2">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  278              <div class="row">
+  279                  <div class="col-md-6 col-lg-4">
+  280:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  281                      <div class="footer-widget">
+  282                          <ul class="social-link list-inline">
+  ...
+  343          </div>
+  344          <div class="footer-copyright-wrapper text-center">
+  345:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  346          </div>
+  347          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/pages/blog/pages/3/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Our Blog - page 3" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/pages/blog/pages/3/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Our Blog - page 3">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  228              <div class="row">
+  229                  <div class="col-md-6 col-lg-4">
+  230:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  231                      <div class="footer-widget">
+  232                          <ul class="social-link list-inline">
+  ...
+  293          </div>
+  294          <div class="footer-copyright-wrapper text-center">
+  295:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  296          </div>
+  297          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/posts/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content=" posts" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/posts/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content=" posts">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  281              <div class="row">
+  282                  <div class="col-md-6 col-lg-4">
+  283:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  284                      <div class="footer-widget">
+  285                          <ul class="social-link list-inline">
+  ...
+  346          </div>
+  347          <div class="footer-copyright-wrapper text-center">
+  348:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  349          </div>
+  350          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/posts/pages/2/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content=" posts - page 2" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/posts/pages/2/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content=" posts - page 2">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  287              <div class="row">
+  288                  <div class="col-md-6 col-lg-4">
+  289:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  290                      <div class="footer-widget">
+  291                          <ul class="social-link list-inline">
+  ...
+  352          </div>
+  353          <div class="footer-copyright-wrapper text-center">
+  354:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  355          </div>
+  356          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/posts/pages/3/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content=" posts - page 3" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/posts/pages/3/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content=" posts - page 3">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  237              <div class="row">
+  238                  <div class="col-md-6 col-lg-4">
+  239:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  240                      <div class="footer-widget">
+  241                          <ul class="social-link list-inline">
+  ...
+  302          </div>
+  303          <div class="footer-copyright-wrapper text-center">
+  304:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  305          </div>
+  306          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/tag/app/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Tag - app" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/tag/app/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Tag - app">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  162              <div class="row">
+  163                  <div class="col-md-6 col-lg-4">
+  164:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  165                      <div class="footer-widget">
+  166                          <ul class="social-link list-inline">
+  ...
+  227          </div>
+  228          <div class="footer-copyright-wrapper text-center">
+  229:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  230          </div>
+  231          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/tag/css/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Tag - css" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/tag/css/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Tag - css">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  281              <div class="row">
+  282                  <div class="col-md-6 col-lg-4">
+  283:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  284                      <div class="footer-widget">
+  285                          <ul class="social-link list-inline">
+  ...
+  346          </div>
+  347          <div class="footer-copyright-wrapper text-center">
+  348:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  349          </div>
+  350          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/tag/css/pages/2/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Tag - css - page 2" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/tag/css/pages/2/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Tag - css - page 2">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  285              <div class="row">
+  286                  <div class="col-md-6 col-lg-4">
+  287:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  288                      <div class="footer-widget">
+  289                          <ul class="social-link list-inline">
+  ...
+  350          </div>
+  351          <div class="footer-copyright-wrapper text-center">
+  352:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  353          </div>
+  354          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/tag/design/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Tag - design" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/tag/design/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Tag - design">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  281              <div class="row">
+  282                  <div class="col-md-6 col-lg-4">
+  283:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  284                      <div class="footer-widget">
+  285                          <ul class="social-link list-inline">
+  ...
+  346          </div>
+  347          <div class="footer-copyright-wrapper text-center">
+  348:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  349          </div>
+  350          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/tag/design/pages/2/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Tag - design - page 2" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/tag/design/pages/2/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Tag - design - page 2">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  287              <div class="row">
+  288                  <div class="col-md-6 col-lg-4">
+  289:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  290                      <div class="footer-widget">
+  291                          <ul class="social-link list-inline">
+  ...
+  352          </div>
+  353          <div class="footer-copyright-wrapper text-center">
+  354:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  355          </div>
+  356          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/tag/design/pages/3/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Tag - design - page 3" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/tag/design/pages/3/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Tag - design - page 3">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  193              <div class="row">
+  194                  <div class="col-md-6 col-lg-4">
+  195:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  196                      <div class="footer-widget">
+  197                          <ul class="social-link list-inline">
+  ...
+  258          </div>
+  259          <div class="footer-copyright-wrapper text-center">
+  260:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  261          </div>
+  262          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/tag/education/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Tag - education" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/tag/education/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Tag - education">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  162              <div class="row">
+  163                  <div class="col-md-6 col-lg-4">
+  164:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  165                      <div class="footer-widget">
+  166                          <ul class="social-link list-inline">
+  ...
+  227          </div>
+  228          <div class="footer-copyright-wrapper text-center">
+  229:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  230          </div>
+  231          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/tag/html5/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Tag - html5" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/tag/html5/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Tag - html5">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  206              <div class="row">
+  207                  <div class="col-md-6 col-lg-4">
+  208:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  209                      <div class="footer-widget">
+  210                          <ul class="social-link list-inline">
+  ...
+  271          </div>
+  272          <div class="footer-copyright-wrapper text-center">
+  273:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  274          </div>
+  275          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+/Users/fenilsuchak/Desktop/All Ears/themeforest-hkhlIGrv-applin-multipurpose-landing-page-and-blog-jekyll-template/dev-jekyll-applin/_site/tag/themeix/index.html:
+    7      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    8      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:     <meta name='description' content='All Ears | Empathy for Everyone.'>
+   10      <meta name="keywords" content="">
+   11      <!-- Facebook Open Graph -->	
+   12:     <meta content="All Ears | Empathy for Everyone" property="og:site_name">
+   13      <meta property="og:locale" content="en_US" />
+   14      <meta content="Tag - themeix" property="og:title">
+   15      <meta content="article" property="og:type">
+   16:     <meta content="All Ears | Empathy for Everyone." property="og:description">
+   17      <meta content="http://192.168.1.2:4000/tag/themeix/index.html" property="og:url">	
+   18      <meta content="" property="og:image">
+   ..
+   24      <meta name="twitter:creator" content="@">
+   25      <meta name="twitter:title"   content="Tag - themeix">	
+   26:     <meta name="twitter:description" content="All Ears | Empathy for Everyone.">
+   27      <meta name="twitter:card"  content="summary"><meta name="twitter:image" content="">
+   28      <!-- Site Title -->
+   ..
+   33      <link rel="stylesheet" href="/assets/css/app.css">
+   34  	<!-- endgulp -->
+   35:     <link type="application/atom+xml" rel="alternate" href="http://192.168.1.2:4000/index.xml" title="All Ears | Empathy for Everyone" />
+   36  </head><body>
+   37        <main class="main-area">
+   ..
+   43              <div class="col-lg-2">
+   44               <div class="header-logo">
+   45:     <a href="http://192.168.1.2:4000"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone" class = "logo"></a>
+   46  </div>
+   47              </div>
+   ..
+  162              <div class="row">
+  163                  <div class="col-md-6 col-lg-4">
+  164:                     <a href="http://192.168.1.2:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears | Empathy for Everyone"/></a>
+  165                      <div class="footer-widget">
+  166                          <ul class="social-link list-inline">
+  ...
+  227          </div>
+  228          <div class="footer-copyright-wrapper text-center">
+  229:             <p>© 2021 All Ears | Empathy for Everyone</p>
+  230          </div>
+  231          <a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+
+678 matches across 68 files
