@@ -7,12 +7,14 @@ title: Team and Vision
    <div class="container">
       <div class="blog-wrapper">
          <div class="row">
-          <quote>What most people really need is a good listening to. <br> —Mary Lou Casey
-          </quote>
-          <p>Empathy is not simply a combination of letters but one of the fundamental traits that makes us human. At All Ears, we envision a society where empathy is infused into everyday life, one that fosters it. Sometimes, letting someone know the depth of your empathy by being there, by being a sympathetic sounding board for their emotions, is all that’s needed for the moment. They are not helpless. Just a bit faltered and discouraged, but not helpless. We believe that pursuit of acts of kindness and empathy are fundamental for the achievement of Sustainable Development Goals, and for building peaceful and supportive societies.</p>
+          <blockquote>
+            <p>The way of being with another person which is termed empathic…means temporarily living in their life, moving abut in it delicately without making judgment… to be with another in this way means that for the time being you lay aside the views and values you hold for yourself in order to enter the other’s world without prejudice…a complex, demanding, strong yet subtle and gentle way of being.</p>
+            <cite>Carl<span class="cite-last-name"> Rogers</span></cite>
+          </blockquote>
+          <p>At All Ears, we believe Empathy is one of fundamental traits that makes us human. We envision a society where mpathy is infused into everyday life, one that fosters it. Sometimes, letting someone know the depth of your empathy by being there, by being a writing board for their emotions, is all that’s needed for the moment. We believe that pursuit of acts of empathy are fundamental for the achievement of sustainable development goals, and for building peaceful and supportive societies.</p>
          {% for author in site.authors %}
 		  {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
-               <div class="col-sm-6  col-md-4">
+      <div class="col-sm-6  col-md-4">
                <article class="author-post">
                   <div class="author-img"><img src="{{ author.image }}" alt="{{ author.name }}"/></a></div>
                   <div class="author-content">
@@ -20,7 +22,7 @@ title: Team and Vision
                      <span>{{ author.bio }}</span>
                      <h6>
                        {% if author.twitter %}
-                          <a href="{{author.twitter}}" class="icon fa-twitter2"><i class="fab fa-twitter" style="font-size:24px"></i></a> 
+                          <a href="{{author.twitter}}" class="icon fa-twitter2"><i class="fab fa-twitter" style="font-size:24px" color ="#f123"></i></a> 
                         {% endif %}
                         {% if author.linkedin %}
                           <a href="{{author.linkedin}}" class="icon fa-linkedin2"><i class="fab fa-linkedin" style="font-size:24px"></i></a> 
