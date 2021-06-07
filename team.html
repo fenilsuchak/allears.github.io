@@ -8,10 +8,15 @@ title: Team and Vision
       <div class="blog-wrapper">
          <div class="row">
           <blockquote>
-            <p>The way of being with another person which is termed empathic…means temporarily living in their life, moving abut in it delicately without making judgment… to be with another in this way means that for the time being you lay aside the views and values you hold for yourself in order to enter the other’s world without prejudice…a complex, demanding, strong yet subtle and gentle way of being.</p>
-            <cite>Carl<span class="cite-last-name"> Rogers</span></cite>
+            <p>When you are in psychological distress and someone really hears you without passing judgement on you, without trying to take responsibility for you, without trying to mold you, it feels damn good!</p>
+            <cite>Carl<span class="cite-last-name"> Rogers, A Way of Being</span></cite>
           </blockquote>
-          <p>At All Ears, we believe Empathy is one of fundamental traits that makes us human. We envision a society where mpathy is infused into everyday life, one that fosters it. Sometimes, letting someone know the depth of your empathy by being there, by being a writing board for their emotions, is all that’s needed for the moment. We believe that pursuit of acts of empathy are fundamental for the achievement of sustainable development goals, and for building peaceful and supportive societies.</p>
+          <p>At All Ears, we believe Empathy is one of the fundamental traits that make us human. We envision a society where Empathy is infused into everyday life, one that fosters it. We are trying to make Empathic Listening a way of life. We are building a platform that provides a safe space for anyone to talk and vent out their feelings anonymously to a real person who understands the core values of Empathic Listening.
+
+          <br>
+          <br>
+
+          We are not an intervention platform. Empathy and Well Being form two core components of preventive mental health that also complement each other. Our most cherished dream is to offer the world, science and tools of well-being that are evidence-based and distilled from the work lying at the intersection of cutting-edge research in neuroscience and psychology.</p>
          {% for author in site.authors %}
 		  {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
       <div class="col-sm-6  col-md-4">
@@ -20,6 +25,8 @@ title: Team and Vision
                   <div class="author-content">
                     <h5 class="heading-6">{{ author.name }}</a></h5>
                      <span>{{ author.bio }}</span>
+                     <br>
+                     <span>{{ author.about }}</span>
                      <h6>
                        {% if author.twitter %}
                           <a href="{{author.twitter}}" class="icon fa-twitter2"><i class="fab fa-twitter" style="font-size:24px" color ="#f123"></i></a> 
