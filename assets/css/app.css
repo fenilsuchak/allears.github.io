@@ -16504,6 +16504,17 @@ th {
 .m-t-30 {
  margin-top:30px
 }
+.m-b-20 {
+ margin-bottom:20px
+}
+#mc_embed_signup div.mce_inline_error {
+    margin: 0 0 1em 0;
+    padding: 0px 0px !important;
+    background-color: #80B2F2 !important;
+    font-weight: normal !important;
+    z-index: 1;
+    color: #fff;
+}
 .m-b-30 {
  margin-bottom:30px
 }
