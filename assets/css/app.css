@@ -16981,7 +16981,8 @@ textarea[class] {
  border-radius:4px;
  color:inherit;
  background-color:transparent;
- border:1px solid #e3e3e3
+ border:1px solid #e3e3e3;
+ width: 70%;
 }
 input[type=email]:active,
 input[type=email]:focus,
@@ -17020,7 +17021,7 @@ input[type=submit] {
  color:#fff;
  background-color:#2e75d8;
  border:1px solid #2e75d8;
- margin-top: 20px
+ margin-top: 10px
 }
 button:active,
 button:focus,
