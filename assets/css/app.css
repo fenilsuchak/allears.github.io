@@ -16504,8 +16504,8 @@ th {
 .m-t-30 {
  margin-top:30px
 }
-.m-b-20 {
- margin-bottom:20px
+.m-b-10 {
+ margin-bottom:10px
 }
 #mc_embed_signup div.mce_inline_error {
     margin: 0 0 1em 0;
@@ -17019,7 +17019,8 @@ input[type=submit] {
  border-radius:4px;
  color:#fff;
  background-color:#2e75d8;
- border:1px solid #2e75d8
+ border:1px solid #2e75d8;
+ margin-top: 20px
 }
 button:active,
 button:focus,
@@ -17038,7 +17039,7 @@ input[type=submit]:focus,
 input[type=submit]:hover {
  color:#2e75d8;
  background-color:#f5f5f5;
- border:1px solid #2e75d8
+ border:1px solid #2e75d8;
 }
 .ads-btn1 {
  font-size:20px;
