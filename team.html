@@ -1,22 +1,20 @@
 ---
 layout: page
-title: Team and Vision
+title: Meet the Team
 ---
 
 <div class="blog-area bg-color1 p-t-130 p-b-130">
    <div class="container">
       <div class="blog-wrapper">
          <div class="row">
-          <blockquote>
+<!--           <blockquote>
             <p>When you are in psychological distress and someone really hears you without passing judgement on you, without trying to take responsibility for you, without trying to mold you, it feels damn good!</p>
             <cite>Carl<span class="cite-last-name"> Rogers, A Way of Being</span></cite>
           </blockquote>
-          <p>At All Ears, we believe Empathy is one of the fundamental traits that make us human. We envision a society where Empathy is infused into everyday life, one that fosters it. We are trying to make Empathic Listening a way of life. We are building a platform that provides a safe space for anyone to talk and vent out their feelings anonymously to a real person who understands the core values of Empathic Listening.
-
+          <p> At All Ears we 
           <br>
           <br>
-
-          We are not an intervention platform. Empathy and Well Being form two core components of preventive mental health that also complement each other. Our most cherished dream is to offer the world, science and tools of well-being that are evidence-based and distilled from the work lying at the intersection of cutting-edge research in neuroscience and psychology.</p>
+          We are not an intervention platform. Empathy and Well Being form two core components of preventive mental health that also complement each other. Our most cherished dream is to offer the world, science and tools of well-being that are evidence-based and distilled from the work lying at the intersection of cutting-edge research in neuroscience and psychology.</p> -->
          {% for author in site.authors %}
 		  {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
       <div class="col-sm-6  col-md-4">
@@ -33,6 +31,9 @@ title: Team and Vision
                         {% endif %}
                         {% if author.linkedin %}
                           <a href="{{author.linkedin}}" class="icon fa-linkedin2"><i class="fab fa-linkedin" style="font-size:24px"></i></a> 
+                        {% endif %}
+                        {% if author.gscholar %}
+                          <a href="{{author.gscholar}}" class="icon fa-linkedin2"><i class="fab fa-linkedin" style="font-size:24px"></i></a> 
                         {% endif %}
                         {% if author.instagram %}
                           <a href="{{author.instagran}}" class="icon fa-insta2" height = 20px><i class="fab fa-instagram" style="font-size:24px"></i></a> 
