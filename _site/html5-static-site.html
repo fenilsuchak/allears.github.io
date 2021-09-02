@@ -3,6 +3,15 @@
 
 <head>
     <!-- meta -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T6K6G1H7DW"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-T6K6G1H7DW');
+    </script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +23,7 @@
     <meta content="html5 Static Site Generator For All amet facilisis" property="og:title">
     <meta content="article" property="og:type">
     <meta content="Find the safe space you need to vent." property="og:description">
-    <meta content="http://192.168.1.4:4000/html5-static-site" property="og:url">	
+    <meta content="http://localhost:4000/html5-static-site" property="og:url">	
     <meta content="/assets/images/blog-img3.jpg" property="og:image">
     
     <meta content="education" property="article:section">
@@ -24,7 +33,7 @@
     <meta name="twitter:creator" content="@">
     <meta name="twitter:title"   content="html5 Static Site Generator For All amet facilisis">	
     <meta name="twitter:description" content="Find the safe space you need to vent.">
-    <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://192.168.1.4:4000/assets/images/blog-img3.jpg">
+    <meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="http://localhost:4000/assets/images/blog-img3.jpg">
     <!-- Site Title -->
     <title> html5 Static Site Generator For All amet facilisis </title>
     <!--  Add Favicon -->	
@@ -32,17 +41,25 @@
     <!-- gulp:css -->
     <link rel="stylesheet" href="/assets/css/app.css">
 	<!-- endgulp -->
-    <link type="application/atom+xml" rel="alternate" href="http://192.168.1.4:4000/index.xml" title="All Ears" />
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/index.xml" title="All Ears" />
 </head><body>
       <main class="main-area">
 
        <header class="header-area bg-color2 page-area">
+
+<!-- <style type="text/css">
+    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+    /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style> -->
+
+<!--End mc_embed_signup-->
 <div class="container">
     <div class="header-nav">
         <div class="row">
             <div class="col-lg-2">
              <div class="header-logo">
-    <a href="http://192.168.1.4:4000"><img src="/assets/images/all ears.png" alt="All Ears" class = "logo"></a>
+    <a href="http://localhost:4000"><img src="/assets/images/all ears.png" alt="All Ears" class = "logo"></a>
 </div>
             </div>
             <div class="col-lg-10">
@@ -50,7 +67,7 @@
   <!-- Navigation For Inner Pages -->
 <nav class="themeix-navbar">
     <ul class="slimmenu main-menu">
-        <li><a href="http://192.168.1.4:4000">Home</a></li>
+        <li><a href="http://localhost:4000">Home</a></li>
         <li><a href="/team" class="js-scroll-trigger">Team</a></li>
 <!--         <li><a href="/vision" class="js-scroll-trigger">Vision</a></li> -->
 <!--         <li>
@@ -66,7 +83,7 @@
 <!--         <li><a href="/pages/contact" class="js-scroll-trigger">Contact</a></li> -->
     </ul>
 <!--     <ul class="slimmenu main-menu">
-        <li><a href="http://192.168.1.4:4000">Home</a></li>
+        <li><a href="http://localhost:4000">Home</a></li>
 
         <li>
             <a href="#" >Pages</a>
@@ -175,21 +192,21 @@
                   <ul class="list-inline">
     <li class="list-inline-item">Share</li>
     <li class="list-inline-item">
-        <a  href="https://www.facebook.com/sharer/sharer.php?u=http://192.168.1.4:4000/html5-static-site"
+        <a  href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/html5-static-site"
             onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
             title="Share on Facebook" >
             <i class="fab fa-facebook-f"></i>
         </a>
     </li>
     <li class="list-inline-item">
-        <a  href="https://twitter.com/intent/tweet?text=html5 Static Site Generator For All amet facilisis&url=http://192.168.1.4:4000/html5-static-site"
+        <a  href="https://twitter.com/intent/tweet?text=html5 Static Site Generator For All amet facilisis&url=http://localhost:4000/html5-static-site"
             onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
             title="Share on Twitter" >
             <i class="fab fa-twitter"></i>
         </a>
     </li>
     <li class="list-inline-item">
-        <a  href="http://pinterest.com/pin/create/button/?url=&media=http://192.168.1.4:4000/assets/images/blog-img3.jpg&description=" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest" >
+        <a  href="http://pinterest.com/pin/create/button/?url=&media=http://localhost:4000/assets/images/blog-img3.jpg&description=" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest" >
         <i class="fab fa-pinterest-p"></i>
         </a>
     </li>
@@ -329,7 +346,7 @@
 
 
 var disqus_config = function () {
-this.page.url = 'http://192.168.1.4:4000/html5-static-site';  
+this.page.url = 'http://localhost:4000/html5-static-site';  
 this.page.identifier = '/html5-static-site'; 
 };
 
@@ -354,7 +371,7 @@ s.setAttribute('data-timestamp', +new Date());
         <div class="footer-widget-wrraper p-b-100">
             <div class="row">
                 <div class="col-md-6 col-lg-4">
-                    <a href="http://192.168.1.4:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears"/></a>
+                    <a href="http://localhost:4000" class="footer-logo"><img src="/assets/images/all ears.png" alt="All Ears"/></a>
                     <div class="footer-widget">                    </div>
                 </div>
                 <!-- <div class="col-md-6 col-lg-3">
