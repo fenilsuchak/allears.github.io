@@ -172,8 +172,42 @@ cite {
 }
 */
 
+.a.signup{
+  background-color: #80B2F2;
+}
 
+.buttonsignup {
+  background-color: #80B2F2;
+  box-shadow: rgba(2, 6, 16, 0.2) 0px 2px 16px;
+  border-width: 0px;
+  color: #FFFF;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 60px;
+  cursor: pointer;
+}
 
+.buttonsignup:hover {
+  transform: scale(1.1);
+  border-width: 0px;
+  background-color: #80B2F2;
+}
+
+.buttonsignup:active {
+  transform: scale(1.1);
+  border-width: 0px;
+  background-color: #80B2F2;
+}
+.buttonsignup:focus {
+  transform: scale(1.1);
+  border-width: 0px;
+  background-color: #80B2F2;
+}
+
+.buttonsignup h5{
+  color: #FFFF
+}
 
 .controls {
   position: fixed;
